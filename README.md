@@ -26,8 +26,6 @@
 
 <br> 
 <br> 
-<br> 
-<br> 
 
 
 
@@ -112,7 +110,7 @@ MEDIUM-STORY-LIST:END -->
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=mhmzdev&theme=gotham)](https://github.com/mhmzdev/github-readme-stats)
+[![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mhmzdev&theme=gotham)](https://github.com/mhmzdev/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mhmzdev&&theme=gotham)](https://git.io/streak-stats)
 
